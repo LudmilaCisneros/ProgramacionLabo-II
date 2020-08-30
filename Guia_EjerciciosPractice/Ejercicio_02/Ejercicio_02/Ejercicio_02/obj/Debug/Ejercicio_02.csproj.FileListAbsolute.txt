@@ -1,0 +1,7 @@
+C:\Users\Lu\Desktop\GUIA_EJERCICIOSPROGRAMACION\Guia_EjerciciosPractice\Ejercicio_02\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\Users\Lu\Desktop\GUIA_EJERCICIOSPROGRAMACION\Guia_EjerciciosPractice\Ejercicio_02\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\Users\Lu\Desktop\GUIA_EJERCICIOSPROGRAMACION\Guia_EjerciciosPractice\Ejercicio_02\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\Users\Lu\Desktop\GUIA_EJERCICIOSPROGRAMACION\Guia_EjerciciosPractice\Ejercicio_02\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\GUIA_EJERCICIOSPROGRAMACION\Guia_EjerciciosPractice\Ejercicio_02\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\GUIA_EJERCICIOSPROGRAMACION\Guia_EjerciciosPractice\Ejercicio_02\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\Users\Lu\Desktop\GUIA_EJERCICIOSPROGRAMACION\Guia_EjerciciosPractice\Ejercicio_02\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
