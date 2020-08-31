@@ -1,0 +1,7 @@
+C:\Users\Lu\source\repos\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\Users\Lu\source\repos\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\Lu\source\repos\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\Lu\source\repos\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+C:\Users\Lu\source\repos\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\Lu\source\repos\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\Lu\source\repos\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
