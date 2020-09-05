@@ -1,0 +1,7 @@
+C:\Users\Lu\Desktop\CLASES_PROGRAMACION_II\Jardin\Clase_04\Clase_04\bin\Debug\Clase_04.exe.config
+C:\Users\Lu\Desktop\CLASES_PROGRAMACION_II\Jardin\Clase_04\Clase_04\bin\Debug\Clase_04.exe
+C:\Users\Lu\Desktop\CLASES_PROGRAMACION_II\Jardin\Clase_04\Clase_04\bin\Debug\Clase_04.pdb
+C:\Users\Lu\Desktop\CLASES_PROGRAMACION_II\Jardin\Clase_04\Clase_04\obj\Debug\Clase_04.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\CLASES_PROGRAMACION_II\Jardin\Clase_04\Clase_04\obj\Debug\Clase_04.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\CLASES_PROGRAMACION_II\Jardin\Clase_04\Clase_04\obj\Debug\Clase_04.exe
+C:\Users\Lu\Desktop\CLASES_PROGRAMACION_II\Jardin\Clase_04\Clase_04\obj\Debug\Clase_04.pdb
