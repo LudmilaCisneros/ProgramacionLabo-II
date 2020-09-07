@@ -41,8 +41,8 @@ namespace Ejercicio_07
                 Console.Write("Error, reingrese: ");
             }
             */
-            dia = 12;
-            mes = 1;
+            dia = 08;
+            mes = 2;
             año = 1997;
             diasVividos = CalcularDias(dia, mes, año);
 
@@ -63,12 +63,24 @@ namespace Ejercicio_07
 
             return respuesta;
         }
+        public static int CompletandoMesDias(int dia, int cuantoDuraMes)
+        {
+            int diaAux = dia;
+
+            while (diaAux <= cuantoDuraMes)
+            {
+                diaAux++;
+            }
+
+            return diaAux;
+        }
         public static int CalcularDias(int dia, int mes, int año)
         {
             int contadorDias = 0;
             int añoActual = (int)DateTime.Now.Year;
             int mesActual = (int)DateTime.Now.Month;
             int diaActual = (int)DateTime.Now.Day;
+            int diaAux = dia;
 
             for (int i = año; i < añoActual; i++)
             {
@@ -82,46 +94,38 @@ namespace Ejercicio_07
                 }
             }
 
-            for (int i = mes; i < mesActual; i++)
+            switch (mes)
             {
-                switch (mes)
-                {
-                    case 2:
-                        if (EsBisiesto(año))
-                        {
-                            contadorDias += 29;
-                        }
-                        else
-                        {
-                            contadorDias += 28;
-                        }
-                        break;
+                case 2://FEBRERO
+                    if (EsBisiesto(añoActual))
+                    {
+                        contadorDias += CompletandoMesDias(dia, 29);
+                        contadorDias += 31;//le sumamos el mes de enero
+                    }
+                    else
+                    {
+                        contadorDias += CompletandoMesDias(dia, 28);
+                    }
+                    break;
 
-                    case 1://ENERO
-                    case 3://MARZO
-                    case 5://MAYO
-                    case 7://JULIO
-                    case 8://AGOSTO
-                    case 10://OCTUBRE
-                    case 12://DICIEMBRE
-                        contadorDias += 31;
-                        break;
+                case 1://ENERO
+                case 3://MARZO
+                case 5://MAYO
+                case 7://JULIO
+                case 8://AGOSTO
+                case 10://OCTUBRE
+                case 12://DICIEMBRE
+                    contadorDias += CompletandoMesDias(dia, 31);
+                    break;
 
-                    case 4://ABRIL
-                    case 6://JUNIO
-                    case 9://SEPTIEMBRE
-                    case 11://NOVIEMBRE
-                        contadorDias += 30;
-                        break;
-
-                }
+                case 4://ABRIL
+                case 6://JUNIO
+                case 9://SEPTIEMBRE
+                case 11://NOVIEMBRE
+                    contadorDias += CompletandoMesDias(dia, 30);
+                    break;
 
             }
-            for (int i = 1; i < diaActual; i++)
-            {
-                contadorDias++;
-            }
-
 
             return contadorDias;
         }
